@@ -1,0 +1,1119 @@
+{
+    "images": [
+        "./pic"
+    ],
+    "threshold": 45.0,
+    "fix_size": true,
+    "results": [
+        {
+            "input_path": "pic\\B (1).jpg",
+            "score": 36.85114872143453,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (10).jpg",
+            "score": 29.080476781538653,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (11).jpg",
+            "score": 18.58486890880915,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (12).jpg",
+            "score": 2.8309975403912886,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (13).jpg",
+            "score": 2.9384664168088617,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (14).jpg",
+            "score": 1.6483037876438393,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (15).jpg",
+            "score": 238.46366173561242,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\B (16).jpg",
+            "score": 36.6317357395361,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (2).jpg",
+            "score": 34.08306576363704,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (3).jpg",
+            "score": 36.148390989177315,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (4).jpg",
+            "score": 30.773558079371707,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (5).jpg",
+            "score": 42.57145523051786,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (6).jpg",
+            "score": 38.686437567918716,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (7).jpg",
+            "score": 5.479197116031889,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (8).jpg",
+            "score": 3.7286194073168444,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (9).jpg",
+            "score": 8.80838108010152,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (10).jpg",
+            "score": 24.691073231168208,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (11).jpg",
+            "score": 35.03956599232644,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (12).jpg",
+            "score": 17.164085385094427,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (13).jpg",
+            "score": 19.762575451975586,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (14).jpg",
+            "score": 30.341947231678862,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (15).jpg",
+            "score": 16.3200525508388,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (16).jpg",
+            "score": 33.059658224937955,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (17).jpg",
+            "score": 11.137200972478244,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (18).jpg",
+            "score": 23.943331980656854,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (19).jpg",
+            "score": 29.363191079776005,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (20).jpg",
+            "score": 8.672445959502333,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (21).jpg",
+            "score": 27.6752117106407,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (22).jpg",
+            "score": 24.520675296024415,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (23).jpg",
+            "score": 23.844121285937717,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (24).jpg",
+            "score": 34.0871799249352,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (25).jpg",
+            "score": 40.74161689040069,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (26).jpg",
+            "score": 40.271536726717336,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (27).jpg",
+            "score": 12.502315368701828,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (28).jpg",
+            "score": 30.765744833250217,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (29).jpg",
+            "score": 92.04477578319475,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\B3 (30).jpg",
+            "score": 20.660929028280787,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (31).jpg",
+            "score": 34.51564213077687,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (6).jpg",
+            "score": 30.003649131448793,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (7).jpg",
+            "score": 40.68460539000772,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (8).jpg",
+            "score": 24.18028661712094,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (9).jpg",
+            "score": 19.322895005802657,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (11).jpg",
+            "score": 252.59728455022216,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (12).jpg",
+            "score": 640.8089864998681,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (13).jpg",
+            "score": 179.20994239383205,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (15).jpg",
+            "score": 449.8135104467485,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (16).jpg",
+            "score": 49.3253937924522,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (17).jpg",
+            "score": 50.38450474386325,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (18).jpg",
+            "score": 72.85231070062545,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (19).jpg",
+            "score": 126.00431864364998,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (2).jpg",
+            "score": 52.28122208208473,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (22).jpg",
+            "score": 885.4660027964054,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (23).jpg",
+            "score": 243.8292550268868,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (24).jpg",
+            "score": 46.995486584330706,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (25).jpg",
+            "score": 443.1251536808262,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (3).jpg",
+            "score": 150.5435628928507,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (30).jpg",
+            "score": 448.5784863006475,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (32).jpg",
+            "score": 123.42766722203851,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (33).jpg",
+            "score": 45.523519888724636,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (4).jpg",
+            "score": 66.08368970729057,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (40).jpg",
+            "score": 148.72284423962267,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (46).jpg",
+            "score": 76.50129610263077,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (47).jpg",
+            "score": 159.43345189757554,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (48).jpg",
+            "score": 50.5064751735209,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (5).jpg",
+            "score": 376.74165827582254,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (50).jpg",
+            "score": 216.70677627829704,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (51).jpg",
+            "score": 24.73977753516729,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (52).jpg",
+            "score": 210.2438624829221,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (55).jpg",
+            "score": 205.9778689792652,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (56).jpg",
+            "score": 19.538318510328,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (57).jpg",
+            "score": 76.09896961580364,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (58).jpg",
+            "score": 126.71725624072293,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (6).jpg",
+            "score": 171.34805584265004,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (61).jpg",
+            "score": 52.33658613677811,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (64).jpg",
+            "score": 60.479141270104265,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (65).jpg",
+            "score": 101.5610029371204,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (66).jpg",
+            "score": 137.81999182000362,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (67).jpg",
+            "score": 43.33346185332415,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (68).jpg",
+            "score": 54.7811793650613,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (69).jpg",
+            "score": 70.9040495681185,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (7).jpg",
+            "score": 19.067339486594854,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (73).jpg",
+            "score": 133.30201134668715,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (75).jpg",
+            "score": 49.26968980727902,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (76).jpg",
+            "score": 79.48324539001217,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (77).jpg",
+            "score": 238.35802239171858,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (78).jpg",
+            "score": 231.87705993310308,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (79).jpg",
+            "score": 52.91598326710521,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (8).jpg",
+            "score": 64.43630685371527,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (80).jpg",
+            "score": 402.204260743701,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (82).jpg",
+            "score": 53.32592455558789,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (84).jpg",
+            "score": 50.01072190645611,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (85).jpg",
+            "score": 67.70640193540221,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (86).jpg",
+            "score": 165.99455498899692,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (87).jpg",
+            "score": 32.77991951707323,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (88).jpg",
+            "score": 99.45729741444302,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (9).jpg",
+            "score": 47.620408698332426,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (92).jpg",
+            "score": 39.67168907789257,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (93).jpg",
+            "score": 99.37069622385604,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (96).jpg",
+            "score": 371.7815286556652,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\B (1).png",
+            "score": 5.100344303979802,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (2).png",
+            "score": 2.8905184056751545,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (1).png",
+            "score": 45.34026669331542,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (2).png",
+            "score": 44.29570115465872,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (1).jpeg",
+            "score": 49.085202633923544,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\B (2).jpeg",
+            "score": 2.04492777766538,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (3).jpeg",
+            "score": 16.852106248171367,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (4).jpeg",
+            "score": 7.691769319295191,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (5).jpeg",
+            "score": 14.406832189178674,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (6).jpeg",
+            "score": 11.75953561515669,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (7).jpeg",
+            "score": 3.217870359720809,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (8).jpeg",
+            "score": 34.029285493419856,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (1).jpg",
+            "score": 36.85114872143453,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (10).jpg",
+            "score": 29.080476781538653,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (11).jpg",
+            "score": 18.58486890880915,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (12).jpg",
+            "score": 2.8309975403912886,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (13).jpg",
+            "score": 2.9384664168088617,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (14).jpg",
+            "score": 1.6483037876438393,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (15).jpg",
+            "score": 238.46366173561242,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\B (16).jpg",
+            "score": 36.6317357395361,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (2).jpg",
+            "score": 34.08306576363704,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (3).jpg",
+            "score": 36.148390989177315,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (4).jpg",
+            "score": 30.773558079371707,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (5).jpg",
+            "score": 42.57145523051786,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (6).jpg",
+            "score": 38.686437567918716,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (7).jpg",
+            "score": 5.479197116031889,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (8).jpg",
+            "score": 3.7286194073168444,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (9).jpg",
+            "score": 8.80838108010152,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (10).jpg",
+            "score": 24.691073231168208,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (11).jpg",
+            "score": 35.03956599232644,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (12).jpg",
+            "score": 17.164085385094427,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (13).jpg",
+            "score": 19.762575451975586,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (14).jpg",
+            "score": 30.341947231678862,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (15).jpg",
+            "score": 16.3200525508388,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (16).jpg",
+            "score": 33.059658224937955,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (17).jpg",
+            "score": 11.137200972478244,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (18).jpg",
+            "score": 23.943331980656854,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (19).jpg",
+            "score": 29.363191079776005,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (20).jpg",
+            "score": 8.672445959502333,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (21).jpg",
+            "score": 27.6752117106407,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (22).jpg",
+            "score": 24.520675296024415,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (23).jpg",
+            "score": 23.844121285937717,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (24).jpg",
+            "score": 34.0871799249352,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (25).jpg",
+            "score": 40.74161689040069,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (26).jpg",
+            "score": 40.271536726717336,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (27).jpg",
+            "score": 12.502315368701828,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (28).jpg",
+            "score": 30.765744833250217,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (29).jpg",
+            "score": 92.04477578319475,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\B3 (30).jpg",
+            "score": 20.660929028280787,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (31).jpg",
+            "score": 34.51564213077687,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (6).jpg",
+            "score": 30.003649131448793,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (7).jpg",
+            "score": 40.68460539000772,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (8).jpg",
+            "score": 24.18028661712094,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B3 (9).jpg",
+            "score": 19.322895005802657,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (11).jpg",
+            "score": 252.59728455022216,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (12).jpg",
+            "score": 640.8089864998681,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (13).jpg",
+            "score": 179.20994239383205,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (15).jpg",
+            "score": 449.8135104467485,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (16).jpg",
+            "score": 49.3253937924522,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (17).jpg",
+            "score": 50.38450474386325,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (18).jpg",
+            "score": 72.85231070062545,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (19).jpg",
+            "score": 126.00431864364998,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (2).jpg",
+            "score": 52.28122208208473,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (22).jpg",
+            "score": 885.4660027964054,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (23).jpg",
+            "score": 243.8292550268868,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (24).jpg",
+            "score": 46.995486584330706,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (25).jpg",
+            "score": 443.1251536808262,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (3).jpg",
+            "score": 150.5435628928507,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (30).jpg",
+            "score": 448.5784863006475,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (32).jpg",
+            "score": 123.42766722203851,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (33).jpg",
+            "score": 45.523519888724636,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (4).jpg",
+            "score": 66.08368970729057,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (40).jpg",
+            "score": 148.72284423962267,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (46).jpg",
+            "score": 76.50129610263077,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (47).jpg",
+            "score": 159.43345189757554,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (48).jpg",
+            "score": 50.5064751735209,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (5).jpg",
+            "score": 376.74165827582254,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (50).jpg",
+            "score": 216.70677627829704,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (51).jpg",
+            "score": 24.73977753516729,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (52).jpg",
+            "score": 210.2438624829221,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (55).jpg",
+            "score": 205.9778689792652,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (56).jpg",
+            "score": 19.538318510328,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (57).jpg",
+            "score": 76.09896961580364,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (58).jpg",
+            "score": 126.71725624072293,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (6).jpg",
+            "score": 171.34805584265004,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (61).jpg",
+            "score": 52.33658613677811,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (64).jpg",
+            "score": 60.479141270104265,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (65).jpg",
+            "score": 101.5610029371204,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (66).jpg",
+            "score": 137.81999182000362,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (67).jpg",
+            "score": 43.33346185332415,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (68).jpg",
+            "score": 54.7811793650613,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (69).jpg",
+            "score": 70.9040495681185,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (7).jpg",
+            "score": 19.067339486594854,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (73).jpg",
+            "score": 133.30201134668715,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (75).jpg",
+            "score": 49.26968980727902,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (76).jpg",
+            "score": 79.48324539001217,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (77).jpg",
+            "score": 238.35802239171858,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (78).jpg",
+            "score": 231.87705993310308,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (79).jpg",
+            "score": 52.91598326710521,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (8).jpg",
+            "score": 64.43630685371527,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (80).jpg",
+            "score": 402.204260743701,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (82).jpg",
+            "score": 53.32592455558789,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (84).jpg",
+            "score": 50.01072190645611,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (85).jpg",
+            "score": 67.70640193540221,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (86).jpg",
+            "score": 165.99455498899692,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (87).jpg",
+            "score": 32.77991951707323,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (88).jpg",
+            "score": 99.45729741444302,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (9).jpg",
+            "score": 47.620408698332426,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (92).jpg",
+            "score": 39.67168907789257,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (93).jpg",
+            "score": 99.37069622385604,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (96).jpg",
+            "score": 371.7815286556652,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\B (1).png",
+            "score": 5.100344303979802,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (2).png",
+            "score": 2.8905184056751545,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\N (1).png",
+            "score": 45.34026669331542,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\N (2).png",
+            "score": 44.29570115465872,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (1).jpeg",
+            "score": 49.085202633923544,
+            "blurry": false
+        },
+        {
+            "input_path": "pic\\B (2).jpeg",
+            "score": 2.04492777766538,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (3).jpeg",
+            "score": 16.852106248171367,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (4).jpeg",
+            "score": 7.691769319295191,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (5).jpeg",
+            "score": 14.406832189178674,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (6).jpeg",
+            "score": 11.75953561515669,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (7).jpeg",
+            "score": 3.217870359720809,
+            "blurry": true
+        },
+        {
+            "input_path": "pic\\B (8).jpeg",
+            "score": 34.029285493419856,
+            "blurry": true
+        }
+    ]
+}
